@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "mcagustin29-glitch",
+  "repo": "container-4hc0ex0",
+  "name": "mcagustin29-glitch",
+  "email": "mcagustin29@gmail.com",
+}
